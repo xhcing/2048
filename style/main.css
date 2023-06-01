@@ -340,8 +340,10 @@ hr {
     color: #f9f6f2;
     background: #f2b179; }
   .tile.tile-16 .tile-inner {
-    color: #f9f6f2;
-    background: #f59563; }
+background:url(/img/1.jpg)
+color:rgba(0,0,0,0)
+background-size: cover;
+}
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
     background: #f67c5f; }
