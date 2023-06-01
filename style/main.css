@@ -334,10 +334,12 @@ color:rgba(0,0,0,0)
 background-size: cover;
 }
   .tile.tile-8 .tile-inner {
-    color: #f9f6f2;
-    background: #f2b179; }
+background:url(/img/3.jpg)
+color:rgba(0,0,0,0)
+background-size: cover;
+}
   .tile.tile-16 .tile-inner {
-background:url(/img/1.jpg)
+background:url(/img/4.jpg)
 color:rgba(0,0,0,0)
 background-size: cover;
 }
