@@ -329,13 +329,10 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #eee4da;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
-  .tile.tile-4 .tile-inner {
-    background: url("https://pic.pimg.tw/firstartclass/1682740393-2513772240-g_n.jpg");
-    background-size:cover;
-    color: rgba(0,0,0,0);
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+background:url(/img/2.jpg)
+color:rgba(0,0,0,0)
+background-size: cover;
+}
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
     background: #f2b179; }
